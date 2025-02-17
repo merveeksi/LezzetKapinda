@@ -1,0 +1,9 @@
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.csproj.AssemblyReference.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.AssemblyInfoInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.AssemblyInfo.cs
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.csproj.CoreCompileInputs.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.MvcApplicationPartsAssemblyInfo.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.RazorAssemblyInfo.cache
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.RazorAssemblyInfo.cs
+/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/Debug/net9.0/LezzetKapinda.sourcelink.json

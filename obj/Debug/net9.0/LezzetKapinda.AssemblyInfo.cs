@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LezzetKapinda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0a0f1dd68fb0452cf47e8e1523670ad428792d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09049f74a335ef0793132b650fff505633d52871")]
 [assembly: System.Reflection.AssemblyProductAttribute("LezzetKapinda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LezzetKapinda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

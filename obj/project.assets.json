@@ -2840,25 +2840,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/pc/.nuget/packages/": {}
+    "/Users/merveeksi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/LezzetKapinda.csproj",
+      "projectUniqueName": "/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/LezzetKapinda.csproj",
       "projectName": "LezzetKapinda",
-      "projectPath": "/Users/pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/LezzetKapinda.csproj",
-      "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/",
+      "projectPath": "/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/LezzetKapinda.csproj",
+      "packagesPath": "/Users/merveeksi/.nuget/packages/",
+      "outputPath": "/Users/merveeksi/Library/Mobile Documents/com~apple~CloudDocs/Desktop/LezzetKapinda/LezzetKapinda/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pc/.nuget/NuGet/NuGet.Config"
+        "/Users/merveeksi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2927,7 +2926,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
