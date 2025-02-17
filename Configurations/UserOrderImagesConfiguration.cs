@@ -27,7 +27,3 @@ public class UserOrderImagesConfiguration : IEntityTypeConfiguration<UserOrderIm
         builder.ToTable("user_order_images");
     }
 }
-
-public class UserOrderImages
-{
-}
