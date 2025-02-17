@@ -52,11 +52,11 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         builder.Property(u => u.Rating)
             .HasDefaultValue(0);
         
-        builder.Property(u => u.CreatedAt)
+        builder.Property(u => u.CreatedOn)
             .HasDefaultValueSql("NOW()")
             .ValueGeneratedOnAdd();
         
-        builder.Property(u => u.UpdatedAt)
+        builder.Property(u => u.LastModifiedOn)
             .ValueGeneratedOnUpdate();
 
         builder.HasMany(u => u.Addresses)

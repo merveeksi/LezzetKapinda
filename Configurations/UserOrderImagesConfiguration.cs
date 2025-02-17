@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace LezzetKapinda.Configurations;
 
-public class UserOrderImagesConfigurtion : IEntityTypeConfiguration<UserOrderImages>
+public class UserOrderImagesConfiguration : IEntityTypeConfiguration<UserOrderImages>
 {
     public void Configure(EntityTypeBuilder<UserOrderImages> builder)
     {
@@ -24,7 +24,7 @@ public class UserOrderImagesConfigurtion : IEntityTypeConfiguration<UserOrderIma
         builder.Property(ui => ui.UsersImageUrl)
             .IsRequired();
 
-        builder.ToTable("users_images");
+        builder.ToTable("user_order_images");
     }
 }
 

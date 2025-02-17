@@ -1,4 +1,6 @@
 using System.ComponentModel.DataAnnotations;
+using LezzetKapinda.Models;
+using LezzetKapinda.ValueObjects;
 
 namespace LezzetKapinda.ViewModels;
 

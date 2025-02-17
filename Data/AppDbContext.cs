@@ -1,4 +1,7 @@
+using LezzetKapinda.Configurations;
+using LezzetKapinda.Models;
 using Microsoft.EntityFrameworkCore;
+using UserOrderImages = LezzetKapinda.Models.UserOrderImages;
 
 namespace LezzetKapinda.Data;
 

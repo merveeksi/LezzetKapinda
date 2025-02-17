@@ -51,7 +51,7 @@ public sealed class OrderController : Controller
                         .AsNoTracking()
                         .Where(a => a.UserId == long.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)))
                         .ToListAsync(),
-                    Address = await _context.Addresses
+                    Address = _context.Addresses
                         .FirstOrDefault(a => a.UserId == long.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)) && a.IsDefault)
                 };
 

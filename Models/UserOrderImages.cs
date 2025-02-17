@@ -1,6 +1,6 @@
 namespace LezzetKapinda.Models;
 
-public sealed class UsersImage
+public sealed class UserOrderImages
 {
     public long Id { get; set; }
     public string? Title { get; set; }
